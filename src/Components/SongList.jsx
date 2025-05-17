@@ -7,7 +7,7 @@ import Music_AntiDote from '../music/ANTIDOTE-yt.savetube.me.mp3';
 
 {/* Jhol */}
 import Jhol from '../assets/Jhol.jpeg';
-import Music_Jhol from'../music/Jhol _ Coke Studio Pakistan _ Season 15 _ Maanu x Annural Khalid-yt.savetube.me.mp3';
+import Music_Jhol from '../music/Jhol _ Coke Studio Pakistan _ Season 15 _ Maanu x Annural Khalid-yt.savetube.me.mp3';
 
 
 const songs = [
