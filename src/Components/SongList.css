@@ -1,0 +1,41 @@
+#box {
+    display: flex;
+    overflow-y: hidden;
+    padding: 10px;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    max-height: 95%;
+    max-width: 95%;
+    margin: 0 auto;
+    position: absolute;
+    top: 500px;
+}
+
+.song {
+    margin: 10px;
+    width: 95%;
+    margin-right: 20px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.song img {
+    width: 170px;
+    height: 170px;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    left: 63px;
+    top: 10px;
+}
+
+.song p {
+    margin: 5px;
+    color: rgb(154, 142, 142);
+    font-size: 16px;
+    position: relative;
+    top : 10px;
+    left: 63px;
+}
